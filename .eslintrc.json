@@ -1,6 +1,9 @@
 {
-  "extends": "next/core-web-vitals",
+  "extends": "react-app",
   "rules": {
     "no-unused-vars": "error"
   }
 }
+
+
+//"next/core-web-vitals"
